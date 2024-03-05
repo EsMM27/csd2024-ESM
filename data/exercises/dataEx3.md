@@ -4,7 +4,7 @@
 
 This will copy some program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/csd2023) and download the repository ZIP file.  Copy the folder ``data`` into your XAMPP ``htdocs`` folder.
+Go to [this link](https://github.com/barcaxi/csd2024) and download the repository ZIP file.  Copy the folder ``data`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``data`` with some files in it.
 
