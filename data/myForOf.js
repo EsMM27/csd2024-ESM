@@ -6,7 +6,7 @@ $("document").ready(function(){
     for(var i=0; i<numbers.length; i++) 
     {
         ///  add your code here
-        HTMLoutput+=`<p>${i} <br>`;
+        HTMLoutput+=`${i} <br>`;
     }
 
     $("#myDiv").html(HTMLoutput);    
